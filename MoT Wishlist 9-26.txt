@@ -1,5 +1,5 @@
 title:MoT Wishlist
-description:Keep your vault light.
+description:Keep your vault light. (made by Sylvan/Chae)
 
 // Mint Retrograde ()
 //notes: Handling - Only reason to use this version is a slice application, mainly on bosses. General utility that accommodates double special loadouts.
